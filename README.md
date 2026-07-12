@@ -2,6 +2,11 @@
 
 Este proyecto ofrece un gestor de archivos cifrados desde la terminal, con usuarios, permisos y cifrado implementado con la librería estándar de Python, sin dependencias externas.
 
+<img width="837" height="601" alt="image" src="https://github.com/user-attachments/assets/e139ec66-5665-4de6-93d0-d0a390a9ca65" />
+<img width="751" height="612" alt="image" src="https://github.com/user-attachments/assets/ab41132c-d46c-4dd9-a1fb-48c9768b579b" />
+<img width="697" height="692" alt="image" src="https://github.com/user-attachments/assets/6b6c0855-ac40-4868-b24c-f584716ba7e8" />
+
+
 ## Requisitos
 
 - Python 3.9 o superior
